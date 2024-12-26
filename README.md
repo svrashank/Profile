@@ -20,7 +20,8 @@ Here’s what I work with:
 
 ## 🔥 Contributions  
 - **Pull Requests Opened**: ![PRs Opened](https://img.shields.io/github/issues-pr/svrashank?style=flat-square)  
-- **Pull Requests Merged**: ![PRs Merged](https://img.shields.io/github/issues-pr-closed/svrashank?style=flat-square)  
+- **Pull Requests Merged**: ![PRs Merged](https://img.shields.io/github/issues-pr-closed/svrashank?style=flat-square)
+
 - Actively contributing to open-source projects, focusing on **API integrations**, **automation tools**, and **scalable architectures**.  
 
 ---
