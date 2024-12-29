@@ -18,12 +18,6 @@ Here’s what I work with:
 
 ---
 
-## 🔥 Contributions  
-**Total PRs:** <!-- PR_COUNT -->
-
-- Actively contributing to open-source projects, focusing on **API integrations**, **automation tools**, and **scalable architectures**.  
-
----
 
 ## 🌟 Highlight Projects  
 Here are a few projects I'm most proud of:  
