@@ -26,7 +26,7 @@ Here are a few projects I'm most proud of:
   <tr>
     <td>
       <h3><a href="https://github.com/svrashank/Network-Analysis-">Network Analysis of Characters</a></h3>
-      <p>📚 Tech Used: Python, NetworkX, NLP</p>
+      <p>📚 Tech Used: Python, NetworkX, NLP ,BeautifulSoup</p>
       <p>🔍 Visualized relationships between 300+ characters from "The Song of Ice and Fire" using graphs and algorithms.</p>
     </td>
     <td>
@@ -37,14 +37,14 @@ Here are a few projects I'm most proud of:
   </tr>
   <tr>
     <td>
-      <h3><a href="https://github.com/svrashank/Order-Routing-System">Order Routing System</a></h3>
-      <p>📦 Tech Used: Python, Google Maps API, REST APIs</p>
-      <p>🚚 Automated routing of e-commerce orders by dynamically optimizing warehouse selection.</p>
+      <h3><a href="https://github.com/svrashank/Mumbai_Weather_Analysis-Time-series-">Mumbai Weather Analysis</a></h3>
+      <p>📦 Tech Used: Pandas, Seaborn, sklearn</p>
+      <p>🚚 Analysis of weather in Mumbai over 3 decades and built a ML model on top of it to predict average temperature for coming years</p>
     </td>
     <td>
-      <h3><a href="https://github.com/svrashank/Complaint-Tracking-System">Complaint Tracking System</a></h3>
-      <p>🛠️ Tech Used: Frappe, Python, ERPNext</p>
-      <p>📈 Implemented a multi-level approval workflow for faster resolution of consumer complaints.</p>
+      <h3><a href="https://github.com/svrashank/Benford-s-Law--SQL-">Verifying Benford's Law using SQL and Tabluae</a></h3>
+      <p>🛠️ Tech Used: MySQL, Tabluae</p>
+      <p>📈 The probabilities of digits 1-9 occuring as the first digit of a number in a dataset should be the same, but Benford's Law states otherwise. </p>
     </td>
   </tr>
 </table>
